@@ -1,0 +1,35 @@
+To hack sublime 3 (version 3.2.2 build 3211) follow bellow steps:
+
+1. give the execution permission for the bas.sh script and then run it
+	to prevent that the license get blocked
+
+2. copy the license file into the folder under the path of
+	".config/sublime-text-3/Local" inside of your user home dir
+
+NOTE: To check what is your user home directory, type in the terminal following
+			command: echo $HOME
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Optional steps (in case if the license file won't work), instead of step 2 do:
+
+1. Open the included Sublime 3
+2. From the Help menu select: "Enter license" (or similiar)
+3. Type bellow text into the field:
+
+----- BEGIN LICENSE -----
+TwitterInc
+200 User License
+EA7E-890007
+1D77F72E 390CDD93 4DCBA022 FAF60790
+61AA12C0 A37081C5 D0316412 4584D136
+94D7F7D4 95BC8C1C 527DA828 560BB037
+D1EDDD8C AE7B379F 50C9D69D B35179EF
+2FE898C4 8E4277A8 555CE714 E1FB0E43
+D5D52613 C3D12E98 BC49967F 7652EED2
+9D2D2E61 67610860 6D338B72 5CF95C69
+E36B85CC 84991F19 7575D828 470A92AB
+------ END LICENSE ------
+
+
+Enjoy :-D
