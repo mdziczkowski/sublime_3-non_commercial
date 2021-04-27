@@ -1,4 +1,4 @@
-# sublime 3 non_commercial usage
+# sublime 3 (Linux version). Licensed for not commercial usage
 
 Sublime 3 (version 3.2.2, build 3211) licensed for not commercial usage
 
