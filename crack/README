@@ -1,19 +1,17 @@
-To hack sublime 3 (version 3.2.2 build 3211) follow bellow steps:
+***NOTE*** The instruction work only with the attached version of Sublime 3
 
-1. give the execution permission for the bas.sh script and then run it
-	to prevent that the license get blocked
+UPDATE (2021-05-08):
 
-2. copy the license file into the folder under the path of
-	".config/sublime-text-3/Local" inside of your user home dir
-
-NOTE: To check what is your user home directory, type in the terminal following
-			command: echo $HOME
+After downloading and extracting the archive for the repo, go to the folder where you had extracted Sublime and thru the
+```chmod -Rvf 7777 *``` add full permissions and run the ```install.sh``` script from the ```crack``` folder
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Optional steps (in case if the license file won't work), instead of step 2 do:
+Optional steps (in case if the license file won't work), do:
 
-1. Open the included Sublime 3
+0. Run the bas.sh script
+
+1. Open the Sublime 3
 2. From the Help menu select: "Enter license" (or similiar)
 3. Type bellow text into the field:
 
@@ -31,5 +29,9 @@ D5D52613 C3D12E98 BC49967F 7652EED2
 E36B85CC 84991F19 7575D828 470A92AB
 ------ END LICENSE ------
 
+***IMPORTANT***
+
+DO NOT SKIP the running of the bas.sh script if you have working internet connection before attempt to
+activate Sublime 3 with above license
 
 Enjoy :-D
